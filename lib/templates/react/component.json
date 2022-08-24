@@ -1,0 +1,6 @@
+{
+  "name": "<%=componentName %>",
+  "text": "<%=componentCnName %>",
+  "category": "<%=componentType %>",
+  "author": "<%-author %>"
+}
